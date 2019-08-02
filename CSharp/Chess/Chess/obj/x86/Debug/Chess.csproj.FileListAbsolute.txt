@@ -1,0 +1,6 @@
+C:\Users\DCorum\Documents\Visual Studio Solutions\ProjectsInExistingCode\OOChess\OOChess\CSharp\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\DCorum\Documents\Visual Studio Solutions\ProjectsInExistingCode\OOChess\OOChess\CSharp\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\DCorum\Documents\Visual Studio Solutions\ProjectsInExistingCode\OOChess\OOChess\CSharp\Chess\Chess\obj\x86\Debug\Chess.csprojAssemblyReference.cache
+C:\Users\DCorum\Documents\Visual Studio Solutions\ProjectsInExistingCode\OOChess\OOChess\CSharp\Chess\Chess\obj\x86\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\DCorum\Documents\Visual Studio Solutions\ProjectsInExistingCode\OOChess\OOChess\CSharp\Chess\Chess\obj\x86\Debug\Chess.exe
+C:\Users\DCorum\Documents\Visual Studio Solutions\ProjectsInExistingCode\OOChess\OOChess\CSharp\Chess\Chess\obj\x86\Debug\Chess.pdb
